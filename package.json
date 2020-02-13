@@ -1,5 +1,5 @@
 {
-  "name": "@ziro/string-data",
+  "name": "@ziro/string-to-date",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ziro-app/string-data.git"
+    "url": "git+https://github.com/ziro-app/string-to-date.git"
   },
   "author": "Ahmad Forhat",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ziro-app/string-data/issues"
+    "url": "https://github.com/ziro-app/string-to-date/issues"
   },
-  "homepage": "https://github.com/ziro-app/string-data#readme",
+  "homepage": "https://github.com/ziro-app/string-to-date#readme",
   "devDependencies": {
     "ava": "^3.3.0"
   }
