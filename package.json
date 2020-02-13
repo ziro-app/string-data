@@ -1,0 +1,23 @@
+{
+  "name": "@ziro/string-data",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "ava"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ziro-app/string-data.git"
+  },
+  "author": "Ahmad Forhat",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ziro-app/string-data/issues"
+  },
+  "homepage": "https://github.com/ziro-app/string-data#readme",
+  "devDependencies": {
+    "ava": "^3.3.0"
+  }
+}
